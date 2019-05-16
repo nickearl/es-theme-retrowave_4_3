@@ -13,6 +13,7 @@ https://github.com/nickearl/retrowave_theme
 
 - I've also created a video splashscreen in a matching style:
 	Watch it here:	https://www.youtube.com/watch?v=tzj_6HRCS7s
+	
 	Download it here:	https://www.nickearl.net/2019/05/11/retrowave-80s-synthwave-style-retropie-video-splashscreen/
 
 ##Images
