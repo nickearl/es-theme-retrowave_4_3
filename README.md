@@ -38,7 +38,7 @@ I've also created a video splashscreen in a matching style:
 
 ## Notes
 
-- This theme is optimized for 4:3 displays.  There is also a 16:9 version available at https://github.com/nickearl/retrowave_theme
+- This theme is optimized for 4:3 displays.  There is also a 16:9 version available at https://github.com/nickearl/es-theme-retrowave
 
 
 ## Changelog
